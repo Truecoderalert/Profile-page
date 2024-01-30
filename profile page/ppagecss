@@ -1,0 +1,75 @@
+.Top-nav {
+    height: 50px;
+    width: 755px;
+    border: 1px solid #000000;
+    background-color: black;
+    display:flex;
+    color: aliceblue;
+    justify-content: space-evenly;
+}
+.btn-signout{text-decoration: underline;
+background-color: aqua;
+color: aliceblue;}
+
+
+.Title, .btn-signout {
+    display: inline-block;
+    justify-content: space-evenly;
+}
+
+.Title {
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.profilecard{height: 300px;
+    width: 700px;
+    background-color: #fbfbfc;
+    display: inline-flexbox;
+    border-style: solid;
+    
+    }
+    .profile-picture{
+        max-width: 70%;
+        max-height: 70%;
+        background-color: blue;
+        
+    margin-top: 37px;
+    }
+
+   h6{background-color: gray;}
+   .educatestyle{border-style: solid;
+height: 212px;
+width: 470px;
+}
+ .connectrequest{
+border-style: solid;
+color: black;
+width: 300px;
+height: 250px;
+margin-right: 0%;
+margin-top: 0%;
+}
+.connstyle{background-color: gray;}
+.educatestyle,.connectrequest{display: inline-block;}
+.Connection{background-color: grey;}
+.bottomright{
+border-style: solid;
+height: 300px;
+width: 300px;
+}
+.secondninja{border-style: solid;}
+
+
+
+
+
+
+
+
+
+
+
+
+

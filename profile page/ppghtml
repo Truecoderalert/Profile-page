@@ -1,0 +1,67 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="Top-nav">
+        <h1>  Profile </h1>
+            <h5>Home</h5>
+            <h5>My profile</h5>
+            <h5>Find Connections</h5>
+            <li><button class="btn-signout">Sign Out</button></li>
+        </ul>
+    </div>
+        <div class="profilecard">
+            <div class="profile-picture"> <img src="jane-m.jpg" alt="jane"> </div>
+                <h4 class="real-name">Jane Doe</h4>
+                <p><img src="map-marker.png" alt="map-marker">Seattle</p>
+                <p><img src="gear.png" alt="gear" class="img-gear"><a href="#">  edit profile</a></p>
+            </div>
+        </div>
+        <div class="educatestyle">
+            <div class="Education">
+                <h6>Education</h6>
+                </div>
+                <h3>Coding Dojo - Full Stack Bootcamp</h3>
+                <h3>Dec 2019 - Mar 2020</h3>
+                <h3>Triple Black Belt in Python, MERN, and C#...</h3>
+            </div>
+        </div>
+
+        <div class="connectrequest">
+            <div class="connstyle">
+            <p>Connection request:2</p>
+            </div>
+            <p><img src="todd-s.jpg" alt="Todd">Todd E
+                <img src="accept-circle.png" alt="accept circle">
+                <img src="close-circle.png" alt="close circle"></p>
+                <p><img src="phil-s.jpg" alt="Phil">Phil K
+                    <img src="accept-circle.png" alt="accept circle">
+                    <img src="close-circle.png" alt="close circle"></p>
+            </div>
+        </div>
+        <div class="bottomright">
+            <div class="Connection">
+                <p>Your Connections</p>
+                </div>
+                <P>500+</P>
+                <p><img src="adrien-s.jpg" alt="Adrien">Adrien D</p>
+                <p><img src="anne-s.jpg" alt="Anne">Anne J</p>
+                <p><img src="alayne-s.jpg" alt="Alayne">Alayne T</p>
+                <p><img src="arry-s.jpg" alt="Arry">Arry Y</p>
+                <p><a href="#">View More</a></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+index.html
+3 KB
+
